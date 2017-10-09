@@ -11,3 +11,5 @@ The remote communication is made possible by using Stub ( Client side interface)
 5. Start the registry service by rmiregistry tool (command : rmiregistry)
 6. Create and start the server application (command : java server)
 7. Create and start the client application (command : java client)
+
+In my program, when the client request server with two inputs (no. of product and unit price)-Server invokes an interface which would multiply these two numbers and retun it to client. It will print the total cost thus obtained.
